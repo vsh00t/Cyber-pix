@@ -1,6 +1,6 @@
 CHAT_ID="@"
 bot="bot"
-token = "480788084:AAEdP3z-R3k3L0bPVNpXuOl9lNYkQlvGi7U"
+token = "1222121212:AAAAAAAAA-R3k3L0bPVNpXuOl9lNYkQlvGi7U"
 home = "/home/jorge/cyber-pix/"
 url = "https://chaos-data.projectdiscovery.io/index.json"
 database = home + "bdd_cyber-pix.db"
